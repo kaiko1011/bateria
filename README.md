@@ -13,5 +13,5 @@ Reproduz som de uma bateria via teclado
 
 <h3>LINGUAGENS UTILIZADAS:<H3>
 
--HTML, CSS, JAVASCRIPT.
+-HTML, Css, Javascript.
 
